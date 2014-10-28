@@ -5,11 +5,7 @@ layout: default
 ---
 ### Overview
 
-Each year thousands of banks and other financial institutions report data about mortgages to the public as part of the [Home Mortgage Disclosure Act (HMDA)](http://www.consumerfinance.gov/hmda/#video). This data is important because:
-
-- It helps show whether lenders are serving the housing needs of their communities;
-- It gives public officials insight that helps them make informed decisions about policies; and
-- It sheds light on lending patterns that could be discriminatory
+The agency has released a new dataset and here's it's API.  
 
 The CFPB provides every year of the Loan Application Register (LAR) data since 2007. That adds up to about 15 to 20 million records every year, and we think that you could build something really cool with it. 
 
